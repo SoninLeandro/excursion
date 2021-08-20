@@ -23,8 +23,17 @@ h2 {
     color: white;
 }
 
+footer h3 {
+    text-align: right;
+}
+
 h3 {
     font-family: verdana;
     font-size: 21px;
     color: gray;
+}
+
+i {
+    color:gray;
+    size: 21px;;
 }
